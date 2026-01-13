@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ランプ",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-01-13T09:33:29.744216Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ランプ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_ランプ_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lamp [ランプ]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_Lamp_[ランプ]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ランプ",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/03_ランプ_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ramp [ランプ]",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/04_Ramp_[ランプ]_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ランプ",
+      "artist": "Tokyo Jihen",
+      "has_synced": false,
+      "path": "select/05_ランプ_Tokyo_Jihen.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ランプ",
+      "artist": "Bump Of Chicken",
+      "has_synced": true,
+      "path": "select/06_ランプ_Bump_Of_Chicken.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ランプ - Lamp",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/07_ランプ_-_Lamp_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "05. ランプ",
+      "artist": "Bump of Chicken",
+      "has_synced": true,
+      "path": "select/08_05._ランプ_Bump_of_Chicken.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ランプ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_ランプ_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
